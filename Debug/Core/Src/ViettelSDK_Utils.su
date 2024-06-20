@@ -1,0 +1,6 @@
+../Core/Inc/ViettelSDK_Collections.h:29:14:getStatusTypeString	16	static
+../Core/Src/ViettelSDK_Utils.c:4:8:tokenizeString	40	static
+../Core/Src/ViettelSDK_Utils.c:41:6:removeSubstring	32	static
+../Core/Src/ViettelSDK_Utils.c:49:6:removeChars	40	static
+../Core/Src/ViettelSDK_Utils.c:66:6:floatToString	40	static
+../Core/Src/ViettelSDK_Utils.c:94:7:castToString	16	static

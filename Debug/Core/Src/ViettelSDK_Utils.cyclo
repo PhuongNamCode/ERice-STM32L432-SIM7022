@@ -1,0 +1,6 @@
+ViettelSDK_Collections.h:29:14:getStatusTypeString	18
+ViettelSDK_Utils.c:4:8:tokenizeString	5
+ViettelSDK_Utils.c:41:6:removeSubstring	2
+ViettelSDK_Utils.c:49:6:removeChars	5
+ViettelSDK_Utils.c:66:6:floatToString	3
+ViettelSDK_Utils.c:94:7:castToString	14
